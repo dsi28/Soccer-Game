@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="scoreTextSize">80sp</dimen>
+    <dimen name="teamTextsize">20sp</dimen>
+    <dimen name="foulTextSize">60sp</dimen>
+    <dimen name="zeroDP">0dp</dimen>
+    <dimen name="three">3</dimen>
+    <dimen name="one">1</dimen>
+    <dimen name="foulScoreTopMargin">25dp</dimen>
+    <dimen name="teamNameMarginTop">16dp</dimen>
+    <dimen name="buttonColumnTop">30dp</dimen>
+</resources>

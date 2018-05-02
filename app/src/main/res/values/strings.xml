@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Soccer Game Statistics</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="goal">GOAL</string>
+    <string name="foul">FOUL</string>
+    <string name="teamA">TEAM A</string>
+    <string name="teamB">TEAM B</string>
+    <string name="reset">reset</string>
+    <string name="undo">undo</string>
+    <string name="teamText">0</string>
+</resources>
